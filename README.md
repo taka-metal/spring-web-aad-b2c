@@ -27,3 +27,7 @@
             profile-edit: B2C_1_edit_profile
             password-reset: B2C_1_password_reset
   ```
+# 画面イメージ
+![image](https://github.com/taka-metal/spring-web-aad-b2c/assets/173770336/639a8ed4-122d-45b3-a1d5-cdf31557dadf)
+
+![image](https://github.com/taka-metal/spring-web-aad-b2c/assets/173770336/4a2ca9d4-c028-409d-9cae-1886421aa930)
