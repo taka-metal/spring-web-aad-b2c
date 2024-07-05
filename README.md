@@ -1,4 +1,5 @@
-# Azure Active Directory B2Cを使用したサインインをSpring Web アプリケーションで実装したいデス
+# spring-web-aad-b2c
+Azure Active Directory B2Cを使用したサインインをSpring Web アプリケーションで実装したいデス
 
 # 参考
 [Azure Learn: Azure Active Directory B2C を使用したサインインを Spring Web アプリに追加する](https://learn.microsoft.com/ja-jp/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-active-directory-b2c-oidc)
